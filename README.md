@@ -12,8 +12,8 @@ Enes Bayram'ın YouTube'daki [React Dersleri](https://www.youtube.com/playlist?l
 ### Bölüm 2 — Temel Kavramlar `2-temel-kavramlar/` (Ders 4–11)
 - [x] JSX nedir?
 - [x] Component
-- [ ] JS vs JSX farkı
-- [ ] Props
+- [x] JS vs JSX farkı
+- [x] Props
 - [ ] React DevTools
 - [ ] useState
 - [ ] useEffect
