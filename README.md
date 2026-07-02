@@ -14,10 +14,10 @@ Enes Bayram'ın YouTube'daki [React Dersleri](https://www.youtube.com/playlist?l
 - [x] Component
 - [x] JS vs JSX farkı
 - [x] Props
-- [ ] React DevTools
-- [ ] useState
-- [ ] useEffect
-- [ ] Debug
+- [x] React DevTools
+- [x] useState
+- [x] useEffect
+- [x] Debugging
 
 ### Bölüm 3 — Kurslarım Projesi `3-kurslarim-projesi/` (Ders 12–14)
 - [ ] Örnek proje #1
