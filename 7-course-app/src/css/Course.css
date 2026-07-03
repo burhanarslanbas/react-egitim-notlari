@@ -1,0 +1,61 @@
+.course-main {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.course {
+    width: 270px;
+    height: 400px;
+    border: 2px solid gray;
+    border-radius: 10px;
+    margin-right: 20px;
+}
+
+.c-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid gray;
+    border-radius: 2px;
+}
+
+.c-title {
+    font-style: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 16px;
+    color: black;
+    padding: 0%;
+}
+
+.c-desc {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: rgb(46, 46, 46);
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.c-price {
+    font-family: 'Courier New', Courier, monospace;
+    padding-right: 10px;
+    text-align: right;
+}
+
+.c-link-btn {
+    border: 1.5p solid rgba(85, 82, 82, 0.616);
+    border-radius: 5px;
+    margin-left: 35px;
+    margin-right: 35px;
+    justify-content: center;
+}
+
+.c-link-btn a {
+    font-style: italic;
+    color: rgba(34, 34, 34, 0.897);
+    text-decoration: none;
+    text-align: center;
+}
