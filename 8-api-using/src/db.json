@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "burhan",
+      "password": "password"
+    },
+    {
+      "username": "hakan 2",
+      "password": "updatedPWD",
+      "id": "SGAYxUYMTNo"
+    },
+    {
+      "username": "Hakan",
+      "password": "pwd",
+      "id": "yBI2nKgAO_o"
+    },
+    {
+      "username": "Hakan",
+      "password": "pwd",
+      "id": "5cgmrxxuqWI"
+    },
+    {
+      "username": "Hakan",
+      "password": "pwd",
+      "id": "267DvaXP90U"
+    },
+    {
+      "username": "Hakan",
+      "password": "pwd",
+      "id": "NKLdNZZTLxk"
+    },
+    {
+      "username": "Hakan",
+      "password": "pwd",
+      "id": "hoB-1Bz4zHA"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
