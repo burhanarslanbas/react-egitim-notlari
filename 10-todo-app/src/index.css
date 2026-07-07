@@ -1,0 +1,7 @@
+/* body içerisini arkaplanı darkmode göre ayarlamak için CSS dosyanıza aşağıdaki kodu ekleyebilirsiniz: */
+body {
+    background-color: #121212;
+    /* Dark mode arkaplan rengi */
+    color: #ffffff;
+    /* Dark mode metin rengi */
+}
