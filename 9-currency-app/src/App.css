@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background-image: url("https://dummyimage.com/1920x1080/cccccc/000000&text=Currency Exchange App");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}

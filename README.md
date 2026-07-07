@@ -20,21 +20,21 @@ Enes Bayram'ın YouTube'daki [React Dersleri](https://www.youtube.com/playlist?l
 - [x] Debugging
 
 ### Bölüm 3 — Kurslarım Projesi `3-kurslarim-projesi/` (Ders 12–14)
-- [ ] Örnek proje #1
-- [ ] Örnek proje #2
-- [ ] Örnek proje #3
+- [x] Örnek proje #1
+- [x] Örnek proje #2
+- [x] Örnek proje #3
 
 ### Bölüm 4 — API Kullanımı `4-api-kullanimi/` (Ders 15–20)
-- [ ] API nedir? Axios & Fetch
-- [ ] GET isteği
-- [ ] POST isteği
-- [ ] PUT isteği
-- [ ] DELETE isteği
-- [ ] Asenkron problem örneği
+- [x] API nedir? Axios & Fetch
+- [x] GET isteği
+- [x] POST isteği
+- [x] PUT isteği
+- [x] DELETE isteği
+- [x] Asenkron problem örneği
 
 ### Bölüm 5 — Döviz Kuru Uygulaması `5-doviz-kuru/` (Ders 21–22)
-- [ ] Proje #1
-- [ ] Proje #2
+- [x] Proje #1
+- [x] Proje #2
 
 ### Bölüm 6 — TODO Uygulaması `6-todo-uygulamasi/` (Ders 23–27)
 - [ ] Arayüz oluşturma
