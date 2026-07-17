@@ -37,23 +37,23 @@ Enes Bayram'ın YouTube'daki [React Dersleri](https://www.youtube.com/playlist?l
 - [x] Proje #2
 
 ### Bölüm 6 — TODO Uygulaması `6-todo-uygulamasi/` (Ders 23–27)
-- [ ] Arayüz oluşturma
-- [ ] Yeni todo oluşturma
-- [ ] Todoları listeleme
-- [ ] Todo silme
-- [ ] Todo güncelleme
+- [x] Arayüz oluşturma
+- [x] Yeni todo oluşturma
+- [x] Todoları listeleme
+- [x] Todo silme
+- [x] Todo güncelleme
 
 ### Bölüm 7 — Redux Toolkit `7-redux-toolkit/` (Ders 28–31)
-- [ ] Redux Toolkit nedir?
-- [ ] useSelector, useDispatch, store, slice
-- [ ] createAsyncThunk ile HTTP isteği
-- [ ] Redux DevTools
+- [x] Redux Toolkit nedir?
+- [x] useSelector, useDispatch, store, slice
+- [x] createAsyncThunk ile HTTP isteği
+- [x] Redux DevTools
 
 ### Bölüm 8 — React Router Dom `8-react-router-dom/` (Ders 32–35)
-- [ ] Routes, Route, Link, useNavigate, useParams — giriş
-- [ ] Router Dom kullanımı
-- [ ] Nested (iç içe) router yapısı
-- [ ] useParams & useNavigate uygulaması
+- [x] Routes, Route, Link, useNavigate, useParams — giriş
+- [x] Router Dom kullanımı
+- [x] Nested (iç içe) router yapısı
+- [x] useParams & useNavigate uygulaması
 
 ### Bölüm 9 — E-Ticaret Sitesi `9-e-ticaret/` (Ders 36–40)
 - [ ] Proje #1
@@ -124,20 +124,19 @@ Enes Bayram'ın YouTube'daki [React Dersleri](https://www.youtube.com/playlist?l
 ```
 react-egitim-notlari/
 ├── 1-giris/
-├── 2-temel-kavramlar/
-├── 3-kurslarim-projesi/
-├── 4-api-kullanimi/
-├── 5-doviz-kuru/
-├── 6-todo-uygulamasi/
-├── 7-redux-toolkit/
-├── 8-react-router-dom/
-├── 9-e-ticaret/
-├── 10-typescript/
-├── 11-redux-ts-todo/
-├── 12-custom-hooks/
-├── 13-formik-yup/
-├── 14-material-ui/
-└── 15-firebase/
+├── 2-component/
+├── 3-props/
+├── 4-usestate/
+├── 5-useeffect/
+├── 6-debugging/
+├── 7-course-app/
+├── 8-api-using/
+├── 9-currency-app/
+├── 10-todo-app/
+├── 11-redux/
+├── 12-router-dom/
+└── 13-e-commerce/
+
 ```
 
 Her bölüm bağımsız bir Vite projesidir.
